@@ -51,6 +51,7 @@ type B struct {
 	agressivity int
 }
 
+
 //func p (){
 //	var m,n int
 //	prpbabilities :=[]int{1,2}
